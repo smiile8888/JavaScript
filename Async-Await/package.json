@@ -1,0 +1,14 @@
+{
+  "name": "async-await",
+  "version": "1.0.0",
+  "description": "Follow the tutorial on https://www.freecodecamp.org/news/how-to-master-async-await-with-this-real-world-example-19107e7558ad/",
+  "main": "currency-converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "smiile8888",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
